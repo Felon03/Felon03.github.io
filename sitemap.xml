@@ -9,34 +9,6 @@
   </url>
   
   <url>
-    <loc>https://www.freedomly.tk/404.html</loc>
-    
-    <lastmod>2020-11-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedomly.tk/sitemap/index.html</loc>
-    
-    <lastmod>2020-11-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedomly.tk/categories/index.html</loc>
-    
-    <lastmod>2020-11-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedomly.tk/tags/index.html</loc>
-    
-    <lastmod>2020-11-12</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.freedomly.tk/2019/05/24/OpenStack-Neutron-Architecture/</loc>
     
     <lastmod>2019-05-24</lastmod>
@@ -75,6 +47,34 @@
     <loc>https://www.freedomly.tk/2019/01/16/Hexo-Travis-CI-auto-deploy/</loc>
     
     <lastmod>2019-01-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedomly.tk/categories/index.html</loc>
+    
+    <lastmod>2019-01-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedomly.tk/sitemap/index.html</loc>
+    
+    <lastmod>2019-01-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedomly.tk/404.html</loc>
+    
+    <lastmod>2019-01-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedomly.tk/tags/index.html</loc>
+    
+    <lastmod>2019-01-15</lastmod>
     
   </url>
   
