@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.freedomly.tk/2021/02/10/HotSpot-JVM-Float-Compare/</loc>
+    
+    <lastmod>2021-02-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.freedomly.tk/about/index.html</loc>
     
     <lastmod>2020-11-12</lastmod>
@@ -100,13 +107,6 @@
   </url>
   
   <url>
-    <loc>https://www.freedomly.tk/2017/06/07/C-Primer-%E7%AC%AC%E4%BA%94%E7%89%88-%E7%BB%83%E4%B9%A0-12-33/</loc>
-    
-    <lastmod>2019-01-07</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.freedomly.tk/2017/03/31/C-string%E8%BE%93%E5%85%A5%E9%97%AE%E9%A2%98/</loc>
     
     <lastmod>2019-01-07</lastmod>
@@ -114,14 +114,14 @@
   </url>
   
   <url>
-    <loc>https://www.freedomly.tk/2017/11/17/Visual-Studio%E9%A1%B9%E7%9B%AE%E4%B8%AD%E9%9B%86%E6%88%90Google-Test%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6/</loc>
+    <loc>https://www.freedomly.tk/2017/06/15/C-%E4%B8%AD%E7%9A%84explicit%E5%85%B3%E9%94%AE%E5%AD%97/</loc>
     
     <lastmod>2019-01-07</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.freedomly.tk/2017/06/15/C-%E4%B8%AD%E7%9A%84explicit%E5%85%B3%E9%94%AE%E5%AD%97/</loc>
+    <loc>https://www.freedomly.tk/2017/11/17/Visual-Studio%E9%A1%B9%E7%9B%AE%E4%B8%AD%E9%9B%86%E6%88%90Google-Test%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6/</loc>
     
     <lastmod>2019-01-07</lastmod>
     
@@ -136,6 +136,13 @@
   
   <url>
     <loc>https://www.freedomly.tk/2017/05/26/C-Primer-%E7%AC%AC%E4%BA%94%E7%89%88-%E7%BB%83%E4%B9%A012-3/</loc>
+    
+    <lastmod>2019-01-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedomly.tk/2017/06/07/C-Primer-%E7%AC%AC%E4%BA%94%E7%89%88-%E7%BB%83%E4%B9%A0-12-33/</loc>
     
     <lastmod>2019-01-07</lastmod>
     
@@ -270,7 +277,7 @@
 
   <url>
     <loc>https://www.freedomly.tk/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -278,126 +285,140 @@
   
   <url>
     <loc>https://www.freedomly.tk/tags/C-Primer/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/tags/C/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/tags/String/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/tags/vector/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/tags/Travis-CI/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/tags/Hexo/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.freedomly.tk/tags/HotSpot/</loc>
+    <lastmod>2021-02-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.freedomly.tk/tags/JVM/</loc>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/tags/LeetCode/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/tags/Neutron/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/tags/Python/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/tags/%E8%AF%8D%E4%BA%91/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/tags/UTF-8/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/tags/VSCode/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/tags/Vim%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/tags/IDE/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/tags/helloworld/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/tags/%E6%AF%8F%E5%91%A8%E4%B8%80%E5%9D%91/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/tags/BinaryTree/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -406,63 +427,70 @@
   
   <url>
     <loc>https://www.freedomly.tk/categories/CPP/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/categories/Tech/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.freedomly.tk/categories/JVM/</loc>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/categories/LeetCode/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/categories/OpenStack/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/categories/Python/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/categories/Development/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/categories/Vim/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/categories/helloworld/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.freedomly.tk/categories/DataStructure/</loc>
-    <lastmod>2021-01-16</lastmod>
+    <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
